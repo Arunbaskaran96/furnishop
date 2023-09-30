@@ -1,13 +1,15 @@
 
 import './App.css';
-import Topbar from './components/topbar/Topbar';
-import Home from './components/home/Home';
 import Categories from './components/Categories/Categories';
-import Third from './components/Third/Third';
+import Contact from './components/Contact/Contact';
+import Discount from './components/Discount/Discount';
 import Fourth from './components/Fourth/Fourth';
 import Reviews from './components/Reviews/Reviews';
-import Discount from './components/Discount/Discount';
-import Contact from './components/Contact/Contact';
+import Third from './components/Third/Third';
+import Home from './components/home/Home';
+import Topbar from './components/topbar/Topbar';
+
+
 
 function App() {
   return (
@@ -21,6 +23,7 @@ function App() {
       <Discount/>
       <Contact/>
     </div>
+
   );
 }
 

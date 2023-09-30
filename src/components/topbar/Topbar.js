@@ -12,7 +12,9 @@ function Topbar() {
                     <li className='topbarList'>Home</li>
                     <li className='topbarList'>About</li>
                     <li className='topbarList'>Categories</li>
-                    <li className='topbarList'>Contact</li>
+                    <li className='topbarList'>
+                        <a className='anchorList' href=''>Contact</a>
+                    </li>
                 </ul>
             </div>
             <div className='topbarMenuIcon'>

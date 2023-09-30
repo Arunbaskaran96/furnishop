@@ -22,6 +22,10 @@
     width: 500px;
     margin-right: 25px;
 }
+.anchorList{
+    text-decoration: none;
+    color: white;
+}
 .topbarList{
     list-style-type: none;
     cursor: pointer;
