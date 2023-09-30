@@ -1,0 +1,18 @@
+.thirdImage{
+    width: 430px;
+    height: 300px
+}
+.thirdWrapper{
+    display:flex ;
+}
+
+.tickImage{
+    height: 20px;
+}
+.thirdRightBottom{
+    display: flex;
+
+}
+.thirdRight{
+    padding: 50px 100px;
+}

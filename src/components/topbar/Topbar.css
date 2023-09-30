@@ -1,0 +1,56 @@
+.topbarWrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.topbarContainer{
+    background-color: grey;
+    padding: 10px;
+}
+.companyName{
+    color: white;
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+.topbarLeft{
+    flex: 3;
+}
+
+.topbarLists{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin-right: 25px;
+}
+.topbarList{
+    list-style-type: none;
+    cursor: pointer;
+    font-size: 17px;
+    color: whitesmoke;
+    transition: 0.9s;
+}
+.topbarList:hover{
+    transform: scale(1.2);
+    background-color: black;
+    padding: 0.5px;
+}
+
+.topbarMenuIcon{
+    display: none;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .topbarLists{
+        display: none;
+    }
+    .topbarMenuIcon{
+        display: block;
+    }
+    .menuButton{
+        font-size: 28px;
+        cursor: pointer;
+        background-color: black;
+        color: white;
+    }
+  }

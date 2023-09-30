@@ -1,0 +1,20 @@
+.discountWrapper{
+    background-image: url("https://www.jori.com/sites/default/files/styles/j2_w1920/public/carousel/jori-tigra-landscape-209_1.jpg?itok=5Pj_2zNR");
+    border-radius: 25px;
+    height: 250px;
+}
+.discountContainer{
+    padding: 15px 250px;
+}
+.discountCard{
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+.discountButton{
+    background-color: gray;
+    padding: 10px 40px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 15px;
+}

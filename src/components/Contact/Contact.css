@@ -1,0 +1,36 @@
+.contactContainer{
+    height: 400px;
+    background-color: rgba(0, 128, 0, 0.534);
+}
+.contactTop{
+    display: flex;
+    padding: 20px 200px;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+
+.contactButton{
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0px 10px;
+}
+.contactText{
+    font-size: 30px;
+    width: 450px;
+}
+.bottomOne{
+    width: 250px;
+}
+.contactBottom{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.contactDiv{
+    margin-top: 25px;
+    margin: 0px 200px;
+    height: 20px;
+    background-color: white;
+    border-radius: 30px;
+}

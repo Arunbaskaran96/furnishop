@@ -1,0 +1,30 @@
+.fourthContainer{
+    background-color: rgba(0, 128, 0, 0.534);
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+
+.fouthImage{
+    height: 300px;
+}
+.fouthWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fourthContainer{
+    padding: 0px 100px;
+}
+.fourthLeft{
+    width: 500px;
+}
+.fourthButton{
+    padding: 8px 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(0, 128, 0, 0.534);
+    color: white;
+    border: white;
+}

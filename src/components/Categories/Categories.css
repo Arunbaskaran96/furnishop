@@ -1,0 +1,17 @@
+.categoriesContainer{
+    margin-top: 60px;
+}
+
+.categoriesHeading{
+    font-size: 25px;
+}
+.furnImage{
+    height: 80px;
+}
+.categoriesLists{
+    display: flex;
+    justify-content: center;
+}
+.categoriesList{
+    padding: 10px 40px;
+}
